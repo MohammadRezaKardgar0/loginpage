@@ -28,6 +28,7 @@ body {
 
 .logo {
   background: url("./bmw.png");
+  background-size: contain;
   width: 100px;
   height: 100px;
   border-radius: 50%;
