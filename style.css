@@ -86,10 +86,12 @@ body {
   box-shadow:
     3px 3px 8px #b1b1b1,
     -3px -3px 8px #fff;
+  transition: all 0.4s linear;
 }
 
 .login-btn:hover {
   background-color: #50e5b9;
+  font-size: 25px;
 }
 
 .link {
